@@ -1,4 +1,3 @@
-# Flight_Price_Prediction
 # Flight Price Prediction
 
 The objective to predict flight prices given the various parameters. This will be a regression problem since the target or dependent variable is the price (continuous numeric value)
